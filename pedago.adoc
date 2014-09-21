@@ -36,3 +36,6 @@ void wink(int d) {
   digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
 }
 ----
+
+=== Divers
+* image::http://www.semageek.com/wp-content/uploads/2013/02/Arduino_uno_Pinout_Web.png(schéma simple) 
