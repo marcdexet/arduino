@@ -1,3 +1,5 @@
 == Lexique grossier
+Ceci est un lexique grossier à destination des personnes perdues dans tous ces sigles. Il ne se prétent pas rigoureux, mais mémotechnique 
+
 === CMOS
 Composant électronique assurant une fonctionnalité de base, équipé d'une mémoire et souvent alimenté en permanence par une pile
