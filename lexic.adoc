@@ -1,0 +1,3 @@
+== Lexique grossier
+=== CMOS
+Composant électronique assurant une fonctionnalité de base, équipé d'une mémoire et souvent alimenté en permanence par une pile
