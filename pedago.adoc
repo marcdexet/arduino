@@ -1,0 +1,38 @@
+== Notes pédagogiques
+
+=== Valider la communication
+
+. Installer les outils (IDE, drivers, etc...)
+. créer une répertoire
+ formation/sketches
+. Charger le sketch exemple/basic/Blink
+. Brancher la carte
+. télécharger
+. vérifier sur Uno que la led de test clignote
+. sauver le blink dans formation/sketches
+. modifier le Blink 
+
+[source,C]
+----
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin 13 as an output.
+  pinMode(13, OUTPUT);
+}
+
+// the loop function runs over and over again forever
+void loop() {
+  wink(100);
+  delay(100);
+  wink(100);
+  delay(100);
+  wink(100);
+  delay(1000);              // wait for a second
+}
+
+void wink(int d) {
+  digitalWrite(13, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(d);              // wait for a second
+  digitalWrite(13, LOW);    // turn the LED off by making the voltage LOW
+}
+----
