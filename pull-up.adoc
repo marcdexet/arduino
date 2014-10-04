@@ -1,0 +1,23 @@
+== Les résistances de rappel
+
+C'est un concept simple qui est difficile à percevoir (en tout cas dans mon cas).
+ 
+Quelques rappels ou concepts
+
+=== Etats 
+En électronique numérique, il existe deux états
+* état HAUT, c'est à dire sous tension  
+* état BAS, c'est à dire de tension _nulle_p.[par rapport à la tension de référene de la masse]
+
+=== Entrée/Sortie
+
+Une broche peut être en _sortie_ ou en _entrée_.
+
+* Si elle est en _sortie_, elle **impose** une tension.
+* Si elle en en _entrée_, elle **reçoit** une tension
+
+Dit autrement
+====
+| _sortie_ | impose | actionner
+| _entrée_ | reçoit | lire
+====
