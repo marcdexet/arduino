@@ -17,7 +17,11 @@ Une broche peut être en _sortie_ ou en _entrée_.
 * Si elle en en _entrée_, elle **reçoit** une tension
 
 Dit autrement
-====
-| _sortie_ | impose | actionner
-| _entrée_ | reçoit | lire
-====
+
+.Modes et associations d'idées
+[options="header"]
+|====
+| Mode | Tension | Usage | Comportement
+| _sortie_ | impose | actionner | actif
+| _entrée_ | reçoit | lire | passif
+|====
