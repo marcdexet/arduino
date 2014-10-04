@@ -32,3 +32,15 @@ Quand une broche est en _entrée_, elle est passive et attend de reçevoir des t
 Quand le circuit relié à cette broche est ouvert, que des courants aléatoires dus à l'environnement peuvent circuler, 
 on dit que la ligne est flottante, et son usage incertain. En effet, les tensions issues de ces courants aléatoires 
 peuvent être interprétées comme des signaux, en l'occurence faux.
+
+== Résistance pull-up (ou pull-down)
+
+Pour éviter d'avoir une ligne flottante, il faut la relier à un potentiel qui est avéré.
+Par exemple, si on relie la broche en _lecture_ (_entrée_) à une source de tension de 5V, la broche sera en position haute.
+En effet elle **reçoit** une tension. 
+Pour ne pas être en court-circuit, on intercale une résistance dîte _pull up_ entre la source de tension 
+et la broche en _lecture_.
+
+=== Explication de la méprise
+
+On parle de résistance de pull-up, mais en faite, cela me semble un abus de langage, car c'est le circuit résistance (source + résistance)
