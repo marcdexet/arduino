@@ -25,3 +25,10 @@ Dit autrement
 | _sortie_ | impose | actionner | actif
 | _entrée_ | reçoit | lire | passif
 |====
+
+=== Ligne flottante
+
+Quand une broche est en _entrée_, elle est passive et attend de reçevoir des tensions. 
+Quand le circuit relié à cette broche est ouvert, que des courants aléatoires dus à l'environnement peuvent circuler, 
+on dit que la ligne est flottante, et son usage incertain. En effet, les tensions issues de ces courants aléatoires 
+peuvent être interprétées comme des signaux, en l'occurence faux.
