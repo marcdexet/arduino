@@ -44,4 +44,5 @@ et la broche en _lecture_.
 
 === Explication de la méprise
 
-On parle de résistance de pull-up, mais en faite, cela me semble un abus de langage, car c'est le circuit résistance (source + résistance)
+On parle de résistance de pull-up, mais en fait, cela me semble un abus de langage, car c'est le circuit résistance (source + résistance)
+qui _tire_ la tension vers le haut.
