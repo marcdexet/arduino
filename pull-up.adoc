@@ -6,6 +6,7 @@ Quelques rappels ou concepts
 
 === Etats 
 En électronique numérique, il existe deux états
+
 * état HAUT, c'est à dire sous tension  
 * état BAS, c'est à dire de tension _nulle_p.[par rapport à la tension de référene de la masse]
 
