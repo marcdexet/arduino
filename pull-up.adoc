@@ -48,6 +48,7 @@ On parle de résistance de pull-up, mais en fait, cela me semble un abus de lang
 qui _tire_ la tension vers le haut. La résistance sert principalement à ne pas être en court-circuit
 
 
+
 == Références
-* https://learn.sparkfun.com/tutorials/pull-up-resistors
+* https://learn.sparkfun.com/tutorials/pull-up-resistors de loin l'explication la plus complète jamais lue à ce sujet
 
