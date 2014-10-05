@@ -4,4 +4,6 @@
 
 Ne pas oublier que tous les trous sur une ligne sont connectés entre eux.
 
-Cela veut dire que les élements branchés sur une même ligne sont... en parallèle
+Cela veut dire que les élements branchés sur une même ligne sont... court-circuité. 
+Anode et cathode étant sur la même ligne, le composant lui même n'est pas activé.
+Pas étonnant dans ces conditions que des diodes ne s'allument pas
