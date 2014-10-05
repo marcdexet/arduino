@@ -1,0 +1,7 @@
+= Quelques pièges pour les non-électroniciens
+
+== La breadboard
+
+Ne pas oublier que tous les trous sur une ligne sont connectés entre eux.
+
+Cela veut dire que les élements branchés sur une même ligne sont... en parallèle
