@@ -3,3 +3,7 @@
 La somme des tension sur une maille est nulle.
 
 => sur un circuit parallèle, les tensions sont identiques.
+
+== Quelques sources
+
+* http://www.areaprog.com/electronic/article-632-serie-parallele-analyse-de-circuits-series-paralleles
