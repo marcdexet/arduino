@@ -2,4 +2,4 @@
 
 La somme des tension sur une maille est nulle.
 
-==> sur un circuit parallèle, les tensions sont identiques.
+=> sur un circuit parallèle, les tensions sont identiques.
