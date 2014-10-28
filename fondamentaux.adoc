@@ -1,8 +1,14 @@
 == Loi des mailles
 
 La somme des tension sur une maille est nulle.
-
 => sur un circuit parallèle, les tensions sont identiques.
+
+La somme des courants entrants est égale à celle des courants sortants
+
+== Principes de superposition
+
+* Une tension nulle est assimilable à un court-circuit
+* un courant nul à un circuit ouvert.
 
 == Quelques sources
 
