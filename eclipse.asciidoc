@@ -5,11 +5,18 @@
   ** via le marketplace ça marche très bien
   ** faire pointer vers l'installation de 1.5.8
 
-
 Avant de lancer
 
-* recopier 
-  ** 'C:\Program Files (x86)\Arduino\hardware\tools\avr\utils' 
-  ** vers 'C:\Arduino\arduino-1.5.8\hardware\tools\avr'
-*  'set PATH=C:\Arduino\arduino-1.5.8\;%PATH%'
+Recopier 
+
+  * 'C:\Program Files (x86)\Arduino\hardware\tools\avr\utils' 
+  * vers 'C:\Arduino\arduino-1.5.8\hardware\tools\avr'
+  
+Pour lancer, taper les commandes: 
+----
+set PATH=c:\Arduino\arduino-1.5.8;%PATH%
+set CYGWIN=nodosfilewarning
+c:\eclipse\eclipse-cpp\eclipse.exe
+----
+
   
