@@ -1,0 +1,15 @@
+* installr Arduino IDE 1.0.6 pour obtenir les utilitaires make et cygwin
+* installer (sous forme de ZIP) arduino IDE 1.5.8
+* installer eclipse luna version cpp
+* installer le plugin arduino de http://www.baeyens.it/eclipse/index.html en V2
+  ** via le marketplace ça marche très bien
+  ** faire pointer vers l'installation de 1.5.8
+
+
+Avant de lancer
+
+* recopier 
+  ** 'C:\Program Files (x86)\Arduino\hardware\tools\avr\utils' 
+  ** vers 'C:\Arduino\arduino-1.5.8\hardware\tools\avr'
+*  'set PATH=C:\Arduino\arduino-1.5.8\;%PATH%'
+  
